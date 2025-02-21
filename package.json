@@ -12,6 +12,11 @@
     "@types/react": "^19.0.10",
     "@types/react-dom": "^19.0.4",
     "axios": "^1.7.9",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "google-auth-library": "^9.15.1",
+    "googleapis": "^144.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.2.0",
@@ -48,5 +53,18 @@
     "autoprefixer": "^10.4.20",
     "postcss": "^8.5.3",
     "tailwindcss": "^4.0.7"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heshaaa0/BC-Questionnaire.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heshaaa0/BC-Questionnaire/issues"
+  },
+  "homepage": "https://github.com/heshaaa0/BC-Questionnaire#readme"
 }
